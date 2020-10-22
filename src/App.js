@@ -25,7 +25,7 @@ function App() {
       dragView: true,
     },
     physics: {
-      enabled: true,
+      enabled: false,
     },
     edges: {
       color: "#000000",
